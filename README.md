@@ -237,5 +237,3 @@ This methodology applies to:
 - [German Credit Data - UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
 
 ---
-
-*This project demonstrates technical capabilities for educational and portfolio purposes. The methodology and findings are based on benchmark data and should not be considered as financial or legal advice.*
